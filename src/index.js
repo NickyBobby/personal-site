@@ -17,7 +17,7 @@ const data = [
         github: 'https://github.com/NickyBobby/game-time',
         production: 'http://tman22.github.io/game-time/',
         technologies: 'JavaScript HTML Canvas',
-        media: './media/cannonz.jpg',
+        media: './assets/cannonz.jpg',
         description: 'Team project building a game in JavaScript using webpack and HTML Canvas'
 
     },
@@ -27,7 +27,7 @@ const data = [
         github: 'https://github.com/NickyBobby/game-time',
         production: 'http://tman22.github.io/game-time/',
         technologies: 'JavaScript HTML Canvas',
-        media: './media/cannonz.jpg',
+        media: './assets/cannonz.jpg',
         description: 'Team project building a game in JavaScript using webpack and HTML Canvas'
 
     },
@@ -37,7 +37,7 @@ const data = [
         github: 'https://github.com/NickyBobby/game-time',
         production: 'http://tman22.github.io/game-time/',
         technologies: 'JavaScript HTML Canvas',
-        media: './media/cannonz.jpg',
+        media: './assets/cannonz.jpg',
         description: 'Team project building a game in JavaScript using webpack and HTML Canvas'
 
     },
@@ -47,7 +47,7 @@ const data = [
         github: 'https://github.com/NickyBobby/game-time',
         production: 'http://tman22.github.io/game-time/',
         technologies: 'JavaScript HTML Canvas',
-        media: './media/cannonz.jpg',
+        media: './assets/cannonz.jpg',
         description: 'Team project building a game in JavaScript using webpack and HTML Canvas'
 
     },
@@ -57,7 +57,7 @@ const data = [
         github: 'https://github.com/NickyBobby/game-time',
         production: 'http://tman22.github.io/game-time/',
         technologies: 'JavaScript HTML Canvas',
-        media: './media/cannonz.jpg',
+        media: './assets/cannonz.jpg',
         description: 'Team project building a game in JavaScript using webpack and HTML Canvas'
 
     },
@@ -67,7 +67,7 @@ const data = [
         github: 'https://github.com/NickyBobby/game-time',
         production: 'http://tman22.github.io/game-time/',
         technologies: 'JavaScript HTML Canvas',
-        media: './media/cannonz.jpg',
+        media: './assets/cannonz.jpg',
         description: 'Team project building a game in JavaScript using webpack and HTML Canvas'
 
     },
@@ -77,7 +77,7 @@ const data = [
         github: 'https://github.com/NickyBobby/game-time',
         production: 'http://tman22.github.io/game-time/',
         technologies: 'JavaScript HTML Canvas',
-        media: './media/cannonz.jpg',
+        media: './assets/cannonz.jpg',
         description: 'Team project building a game in JavaScript using webpack and HTML Canvas'
 
     }
